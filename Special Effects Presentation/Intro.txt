@@ -1,1 +1,0 @@
-If you want special effects,but don't want to manage a billion polygons yourself, use particle system!
