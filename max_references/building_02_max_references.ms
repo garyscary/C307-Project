@@ -1,6 +1,6 @@
 plugin simpleObject building_02
 name:"building_02"
-classID:#(0x65fb3b6b, 0x55ffae21)
+classID:#(0x8bb0301, 0x935a9697)
 category:"max_references"
 (
 	local theTriMesh = triMesh()
