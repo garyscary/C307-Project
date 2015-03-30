@@ -1,0 +1,51 @@
+# Exported from Wings 3D 1.5.3
+newmtl Cube19_auv
+Ns 100.0
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 1.0 1.0 1.0
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+map_Kd louvre_pyramid.png3.tga
+
+newmtl Cube25_auv
+Ns 100.0
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 1.0 1.0 1.0
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+map_Kd lovure_ground.png3.tga
+
+newmtl Cube26_auv
+Ns 100.0
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 1.0 1.0 1.0
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+map_Kd lovure_mini_pyramid.png5.tga
+
+newmtl Cube26_copy27_auv
+Ns 100.0
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 1.0 1.0 1.0
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+map_Kd lovure_mini_pyramid.png5.tga
+
+newmtl Cube26_copy28_auv
+Ns 100.0
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 1.0 1.0 1.0
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+map_Kd lovure_mini_pyramid.png5.tga
+

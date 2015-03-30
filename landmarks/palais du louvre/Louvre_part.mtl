@@ -1,0 +1,100 @@
+# Exported from Wings 3D 1.5.3
+newmtl Cube19_auv
+Ns 100.0
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 1.0 1.0 1.0
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+map_Kd louvre_pyramid.png.tga
+
+newmtl Cube25_auv
+Ns 100.0
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 1.0 1.0 1.0
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+map_Kd lovure_ground.png.tga
+
+newmtl Cube26_auv
+Ns 100.0
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 1.0 1.0 1.0
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+map_Kd lovure_mini_pyramid.png.tga
+
+newmtl Cube26_copy27_auv
+Ns 100.0
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 1.0 1.0 1.0
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+map_Kd lovure_mini_pyramid.png.tga
+
+newmtl Cube26_copy28_auv
+Ns 100.0
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 1.0 1.0 1.0
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+map_Kd lovure_mini_pyramid.png.tga
+
+newmtl Cube3_auv
+Ns 100.0
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 1.0 1.0 1.0
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+map_Kd louvre_segment8.png.tga
+
+newmtl Cube3_copy3_auv
+Ns 100.0
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 1.0 1.0 1.0
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+map_Kd lovure_segment1.png.tga
+
+newmtl Cube3_copy6_auv
+Ns 100.0
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 1.0 1.0 1.0
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+map_Kd lovure_segment2.png.tga
+
+newmtl Cube5_auv
+Ns 100.0
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 1.0 1.0 1.0
+Ks 1.0 1.0 1.0
+Ke 0.0 0.0 0.0
+map_Kd lovure_main_segment.png.tga
+
+newmtl default
+Ns 0.0
+d 1.0
+illum 2
+Kd 0.7898538076923077 0.8133333333333334 0.6940444444444445
+Ka 0.7898538076923077 0.8133333333333334 0.6940444444444445
+Ks 0.0 0.0 0.0
+Ke 0.0 0.0 0.0
+
